@@ -1,0 +1,13 @@
+version: 2
+sources:
+  - name: raw
+    description: "Staging models for the keyvan project"
+    database: movielens
+    schema: raw
+    tables:
+      - name: customers
+        description: "Staging models for the keyvan project"
+      - name: products
+        description: "Staging models for the keyvan project"
+      - name: shipments
+        description: "Staging models for the keyvan project"

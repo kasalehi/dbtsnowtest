@@ -1,7 +1,7 @@
 # 🥪 The Jaffle Shop 🦘
 
 _powered by the dbt Fusion engine_
-
+from me 
 Welcome! This is a sandbox project for exploring the basic functionality of Fusion. It's based on a fictional restaurant called the Jaffle Shop that serves [jaffles](https://en.wikipedia.org/wiki/Pie_iron).
 
 To get started:
